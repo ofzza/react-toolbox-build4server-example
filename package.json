@@ -33,6 +33,6 @@
     "gulp-sourcemaps": "^1.6.0",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
-    "react-toolbox-build4server": "0.0.2"
+    "react-toolbox-build4server": "0.16.2"
   }
 }
