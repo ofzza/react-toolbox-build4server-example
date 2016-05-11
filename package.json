@@ -1,0 +1,38 @@
+{
+  "name": "react-toolbox-build4server-example",
+  "version": "0.1.0",
+  "description": "Example application demonstrating server-side rendering of gulp built react-toolbox components using react-toolbox-build4server",
+  "main": "server",
+  "scripts": {
+    "postinstall": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofzza/react-toolbox-build4server-example.git"
+  },
+  "keywords": [
+    "react",
+    "react-toolbox",
+    "material-design",
+    "isomorphic",
+    "server-side",
+    "build",
+    "example"
+  ],
+  "author": "ofzza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofzza/react-toolbox-build4server-example/issues"
+  },
+  "homepage": "https://github.com/ofzza/react-toolbox-build4server-example#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-toolbox-build4server": "0.0.2"
+  }
+}
